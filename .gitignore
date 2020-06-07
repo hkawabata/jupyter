@@ -1,3 +1,14 @@
 *
-!*.ipynb
+!*/
+!*.*
+
+.*
 !.gitignore
+
+*.png
+*.jpg
+*.gif
+
+# *
+# !*.ipynb
+# !.gitignore
