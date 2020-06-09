@@ -9,6 +9,10 @@
 *.jpg
 *.gif
 
+*.txt
+*.tsv
+*.csv
+
 # *
 # !*.ipynb
 # !.gitignore
