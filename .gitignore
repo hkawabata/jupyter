@@ -13,6 +13,8 @@
 *.tsv
 *.csv
 
+data/
+
 # *
 # !*.ipynb
 # !.gitignore
